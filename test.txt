@@ -2,4 +2,4 @@ Hello Git
 
 
 브랜치 병합
-Git bench
+Git bench이 파일은 추후 병합 시 충돌이 발생할 예정
